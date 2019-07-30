@@ -1,0 +1,32 @@
+{
+  "imovel": [
+    {
+      "id": 1,
+	  "avatar": "https://banner2.kisspng.com/20180523/tha/kisspng-businessperson-computer-icons-avatar-clip-art-lattice-5b0508dc6a3a10.0013931115270566044351.jpg",
+	  "data": "2019-05-12",
+      "descricao": "Casa linda em L com garagem e piscina com cascata.",
+      "valor": 755.37,
+	  "lat": -2.525986,
+	  "lgt": -44.2975391,
+      "img": "https://www.decorfacil.com/wp-content/uploads/2018/02/20180227casas-lindas-1.jpg"
+    },
+    {
+      "id": 2,
+	  "avatar": "https://banner2.kisspng.com/20180623/iqh/kisspng-computer-icons-avatar-social-media-blog-font-aweso-avatar-icon-5b2e99c40ce333.6524068515297806760528.jpg",
+	  "data": "2019-05-14",
+      "descricao": "https://www.decorfacil.com/wp-content/uploads/2018/02/20180227casas-lindas-4.jpg",
+      "valor": 755.37,
+	  "lat": -2.5311176,
+	  "lgt": -44.3077719,
+      "img": "https://www.decorfacil.com/wp-content/uploads/2018/02/20180227casas-lindas-4.jpg"
+    }
+  ],
+  "categories": [
+    {
+	"id": "1",
+	"name": "Apartamento"},
+	{
+	"id": "2",
+	"name": "Casa"}
+  ]
+}
